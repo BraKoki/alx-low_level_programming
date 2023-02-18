@@ -4,6 +4,7 @@
  *
  * Return: Always 0 (GoodGame)
  */
+
 int main(void)
 {
 	int a;
