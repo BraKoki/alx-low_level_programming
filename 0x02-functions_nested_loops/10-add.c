@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - Function that adds two integers and returns the result.
+ * add - Function that adds two integers and returns the result.
  *
  * Return: Always 0 (GoodGame)
  */
