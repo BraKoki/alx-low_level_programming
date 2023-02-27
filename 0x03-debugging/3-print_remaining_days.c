@@ -1,3 +1,4 @@
+#ifndef "MAIN.H"
 #include <stdio.h>
 #include "main.h"
 
