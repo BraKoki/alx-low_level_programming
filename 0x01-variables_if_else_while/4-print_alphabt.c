@@ -5,18 +5,19 @@
  *
  * Return: 0 (GoodGame)
  */
+
 int main(void)
 {
-	char c;
+	char ch = 'a';
 
-	c = 'a';
-	while
-		(c <= 'z')
+	while (ch <= 'z')
+	{
+		if (ch != 'e' && ch != 'q')
 		{
-		if ((c != 'q' && c != 'e') && c <= 'z')
-			putchar(c);
-			c++;
+			putchar(ch);
 		}
+		ch++;
+	}
 	putchar('\n');
 	return (0);
 }
