@@ -4,7 +4,7 @@
 /**
  * main - ts the number of arguments passed into it.
  * @argc: number of arguments
- * @argc: array of arguments
+ * @argv: array of arguments
  * Return: Always 0 (GoodGame)
  */
 
